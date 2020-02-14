@@ -1,0 +1,334 @@
+body
+{
+	width:100%;
+	background-color:#fff;
+	margin:0px;
+}
+.handlebarsmaindiv
+{
+	width:100%;
+	min-height:100%;
+	background-color:#fff;
+	float:left;
+}
+	.handlebarheader
+	{
+		width:100%;
+		height:50px;
+		background-color:#F45D22;
+		float:left;
+	}
+		.handlebarheader-innerdiv
+		{
+			width:90%;
+			height:40px;
+			margin-left:5%;
+			margin-top:5px;
+			float:left;
+		}
+			.handlebarheader-logodiv
+			{
+				width:100px;
+				height:40px;
+				background-color:#FFF;
+				border-radius:4px;
+				margin-right:40px;
+				float:left;
+			}
+				.handlebarheader-logo
+				{
+					width:100px;
+					height:40px;
+					border-radius:4px;
+					float:left;
+				}
+			.handlebarheader-links
+			{
+				font-size:18px;
+				font-weight:700;
+				color:#FFF;
+				padding:10px 15px;
+				margin-right:10px;
+				text-decoration:none;
+				font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+				float:left;
+			}
+	.handlebarcontent
+	{
+		width:100%;
+		min-height:600px;
+		float:left;
+	}
+		.handlebarcontent-innerdiv
+		{
+			width:80%;
+			min-height:500px;
+			margin-left:10%;
+			margin-top:50px;
+			background-color:#FFF;
+			float:left;
+		}
+	.handlebarfooter
+	{
+		width:100%;
+		height:150px;
+		margin-top:0px;
+		background-color:#333;
+		float:left;
+	}
+		.handlebarfooter-innerdiv
+		{
+			width:80%;
+			height:100px;
+			margin-top:25px;
+			margin-left:10%;
+		}
+			.handlebarfooter-leftpart
+			{
+				width:40%;
+				height:100px;
+				float:left;
+			}
+			.handlebarfooter-rightpart
+			{
+				width:40%;
+				height:100px;
+				float:right;
+			}
+				.handlebarfooter-leftpart-headingtext
+				{
+					width:96%;
+					height:20px;
+					font-size:17px;
+					font-weight:700;
+					color:#fff;
+					margin-left:2%;
+					margin-top:0px;
+					margin-bottom:5px;
+					font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+					float:left;
+				}
+				.handlebarfooter-leftpart-ptext
+				{
+					width:90%;
+					min-height:40px;
+					font-size:15px;
+					font-weight:500;
+					color:#fff;
+					margin-top:0px;
+					margin-bottom:5px;
+					font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+					float:left;
+				}
+				.handlebarfooter-rightpart-linktxt
+				{
+					width:35px;
+					height:35px;
+					margin-top:20px;
+					margin-right:20px;
+					border-radius:4px;
+					float:left;
+				}
+					.handlebarfooter-rightpart-link
+					{
+						width:35px;
+						height:35px;
+						border-radius:5px;
+						float:left;
+					}
+					.handlebarcontent-bannerdiv
+					{
+						width:100%;
+						height:400px;
+						float:left;
+					}
+						.handlebarcontent-bannerimg
+						{
+							width:100%;
+							height:400px;
+							border-radius:6px;
+							float:left;
+						}
+					.handlebarcontentdetail-headingdiv 
+					{
+						width: 100%;
+						float: left;
+					}
+						.handlebarcontentdetail-headintext
+						{
+							font-size: 30px;
+							font-weight:700;
+							margin-top: 4%;
+							margin-left:2%;
+							margin-bottom: 2%;
+							-webkit-font-smoothing: antialiased;
+							color: #000;
+							line-height: 1.4;
+							text-align: center;
+							font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+							float:left;
+						}
+						.handlebarcontentdetail-headintext2
+						{
+							font-size: 30px;
+							font-weight:700;
+							margin-top: 4%;
+							margin-left:20%;
+							margin-bottom: 2%;
+							-webkit-font-smoothing: antialiased;
+							color: #000;
+							line-height: 1.4;
+							text-align: center;
+							font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+							float:left;
+						}
+						.handlebarcontentdetail-detailtext
+						{
+							font-size: 20px;
+							color: #000;
+							margin-bottom: 10px;
+							margin-top: 0;
+							-webkit-font-smoothing: antialiased;
+							line-height: 1.3;
+							font-weight: 700;
+							font-family: Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+							float:left;
+						}
+				.margindiv
+				{
+					width:100%;
+					height:100px;
+					float:left;
+				}
+		
+		
+		
+		
+		
+		
+		
+		
+		.handlebarproject-detaildiv 
+		{
+			width: 99%;
+			height: 200px;
+			background-color: white;
+			border:2px solid red;
+			border-radius: 4px;
+			margin-bottom: 50px;
+			float: left;
+		}
+			.handlebarproject-detailinnerdiv 
+			{
+				width: 96%;
+				height: 190px;
+				margin-left: 2%;
+				margin-top: 5px;
+				float: left;
+			}
+				.handlebarproject-detailpicdiv 
+				{
+					width: 30%;
+					height: 190px;
+					float: left;
+				}
+					.handlebarproject-detailpic 
+					{
+						width: 100%;
+						height: 100%;
+						float: left;
+					}
+				.handlebarproject-detailtextdiv 
+				{
+					width: 60%;
+					height: 190px;
+					margin-left: 5%;
+					float: left;
+				}
+					.handlebarproject-detailheadertext 
+					{
+						width: 100%;
+						margin-top: 10px;
+						margin-bottom: 10px;
+						font-size: 18px;
+						font-weight: 700;
+						color: #000;
+						font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+						float: left;
+					}
+					.handlebarproject-detailsubtext 
+					{
+						width: 80%;
+						margin-top: 5px;
+						margin-bottom: 10px;
+						font-size: 17px;
+						font-weight: 500;
+						color: #333;
+						font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+						float: left;
+					}
+					
+					
+		.handlebarcontact-detaildiv
+		{
+			width:100%;
+			min-height:400px;
+			float:left;
+		}
+			.handlebarcontact-innerdiv
+			{
+				width:50%;
+				min-height:400px;
+				margin-left:20%;
+				background-color:#FFF;
+				float:left;
+			}
+				.handlebarcontact-inputdiv
+				{
+					width:100%;
+					margin-bottom:20px;
+					float:left;
+				}
+				.handlebarcontact-input
+				{
+					width:55%;
+					height:40px;
+					font-size:18px;
+					font-weight:700;
+					color:#333;
+					background-color:#F3F2F8;
+					padding-left:10px;
+					border:2px solid #804618;
+					border-radius:4px;
+					font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+					float:left;
+				}
+				.handlebarcontact-inputtextarea
+				{
+					width:55%;
+					height:100px;
+					font-size:18px;
+					font-weight:700;
+					color:#333;
+					background-color:#F3F2F8;
+					padding-left:10px;
+					border:2px solid #804618;
+					border-radius:4px;
+					font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+					float:left;
+				}
+				.handlebarcontact-sendmessage
+				{
+					width:200px;
+					height:40px;
+					margin-left: 2%;
+					margin-top:20px;
+					border-radius: 4px;
+					border: 1px solid red;
+					background-color:red;
+					cursor: pointer;
+					font-size: 20px;
+					padding-left: 5px;
+					color:#FFF;
+					float: left;
+				}
